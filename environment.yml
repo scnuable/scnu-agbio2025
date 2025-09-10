@@ -1,0 +1,19 @@
+
+name: climate-plant-health
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - geopandas
+  - shapely
+  - pyproj
+  - contextily
+  - statsmodels
+  - pip
+  - pip:
+    - nbformat

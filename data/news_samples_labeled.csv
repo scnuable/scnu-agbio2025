@@ -1,0 +1,41 @@
+date,source,region,crop,disease,text,label_signal
+2022-02-10,LocalGov,Jeollanam-do,Rice,Anthracnose,No major outbreaks reported; monitoring continues.,1
+2022-11-06,AgriNews,Jeollabuk-do,Persimmon,Blast,Farmers observe brown spots after typhoon-related rainfall.,0
+2022-11-03,DailyTimes,Gyeonggi-do,Cucumber,Powdery mildew,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-02-16,DailyTimes,Chungcheongnam-do,Cucumber,Blast,Reports indicate rising leaf lesions following prolonged rain.,1
+2022-09-23,LocalGov,Gyeonggi-do,Persimmon,Anthracnose,Extension office warns of mildew risk due to nighttime dew.,1
+2022-12-16,DailyTimes,Jeollanam-do,Rice,Blast,Reports indicate rising leaf lesions following prolonged rain.,0
+2022-06-19,DailyTimes,Gyeonggi-do,Persimmon,Powdery mildew,No major outbreaks reported; monitoring continues.,1
+2022-07-29,DailyTimes,Chungcheongnam-do,Persimmon,Anthracnose,No major outbreaks reported; monitoring continues.,1
+2022-07-22,AgriNews,Chungcheongnam-do,Cucumber,Powdery mildew,Reports indicate rising leaf lesions following prolonged rain.,1
+2022-05-09,LocalGov,Gyeonggi-do,Rice,Bacterial leaf spot,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-10-11,DailyTimes,Jeollabuk-do,Cucumber,Blast,No major outbreaks reported; monitoring continues.,0
+2022-12-25,FarmHub,Chungcheongnam-do,Cucumber,Blast,Farmers observe brown spots after typhoon-related rainfall.,0
+2022-04-21,AgriNews,Jeollabuk-do,Cucumber,Bacterial leaf spot,Localized infection suspected; fungicide application advised.,1
+2022-10-19,AgriNews,Jeollabuk-do,Pepper,Powdery mildew,No major outbreaks reported; monitoring continues.,1
+2022-04-19,DailyTimes,Chungcheongnam-do,Pepper,Bacterial leaf spot,Localized infection suspected; fungicide application advised.,1
+2022-02-16,DailyTimes,Chungcheongnam-do,Rice,Powdery mildew,Farmers observe brown spots after typhoon-related rainfall.,0
+2022-06-28,AgriNews,Jeollanam-do,Cucumber,Blast,Extension office warns of mildew risk due to nighttime dew.,0
+2022-03-09,FarmHub,Jeollabuk-do,Rice,Blast,No major outbreaks reported; monitoring continues.,1
+2022-12-06,AgriNews,Gyeonggi-do,Persimmon,Blast,No major outbreaks reported; monitoring continues.,0
+2022-09-18,DailyTimes,Chungcheongnam-do,Cucumber,Blast,Localized infection suspected; fungicide application advised.,1
+2022-07-20,AgriNews,Jeollabuk-do,Cucumber,Bacterial leaf spot,Localized infection suspected; fungicide application advised.,0
+2022-06-13,FarmHub,Gyeonggi-do,Persimmon,Powdery mildew,Reports indicate rising leaf lesions following prolonged rain.,1
+2022-01-18,FarmHub,Chungcheongnam-do,Persimmon,Powdery mildew,Reports indicate rising leaf lesions following prolonged rain.,1
+2022-07-01,FarmHub,Chungcheongnam-do,Persimmon,Anthracnose,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-10-20,LocalGov,Chungcheongnam-do,Rice,Bacterial leaf spot,No major outbreaks reported; monitoring continues.,1
+2022-04-02,LocalGov,Jeollanam-do,Cucumber,Bacterial leaf spot,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-05-22,LocalGov,Chungcheongnam-do,Persimmon,Powdery mildew,Reports indicate rising leaf lesions following prolonged rain.,1
+2022-03-27,AgriNews,Jeollabuk-do,Cucumber,Powdery mildew,Localized infection suspected; fungicide application advised.,0
+2022-06-17,LocalGov,Jeollanam-do,Persimmon,Bacterial leaf spot,Extension office warns of mildew risk due to nighttime dew.,0
+2022-08-01,FarmHub,Chungcheongnam-do,Pepper,Anthracnose,Farmers observe brown spots after typhoon-related rainfall.,0
+2022-04-10,LocalGov,Jeollanam-do,Persimmon,Blast,No major outbreaks reported; monitoring continues.,0
+2022-08-22,AgriNews,Jeollabuk-do,Pepper,Bacterial leaf spot,Extension office warns of mildew risk due to nighttime dew.,1
+2022-09-10,FarmHub,Chungcheongnam-do,Pepper,Blast,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-09-11,DailyTimes,Jeollanam-do,Pepper,Anthracnose,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-10-26,LocalGov,Gyeonggi-do,Persimmon,Anthracnose,Localized infection suspected; fungicide application advised.,1
+2022-05-16,LocalGov,Jeollabuk-do,Cucumber,Powdery mildew,Localized infection suspected; fungicide application advised.,1
+2022-08-06,LocalGov,Jeollanam-do,Rice,Powdery mildew,No major outbreaks reported; monitoring continues.,0
+2022-02-12,FarmHub,Gyeonggi-do,Cucumber,Anthracnose,Farmers observe brown spots after typhoon-related rainfall.,1
+2022-10-10,FarmHub,Gyeonggi-do,Cucumber,Anthracnose,No major outbreaks reported; monitoring continues.,1
+2022-06-10,DailyTimes,Jeollanam-do,Persimmon,Blast,Localized infection suspected; fungicide application advised.,1

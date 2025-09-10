@@ -1,0 +1,12 @@
+
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
+geopandas
+shapely
+pyproj
+contextily
+statsmodels
+nbformat
