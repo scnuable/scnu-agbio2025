@@ -1,12 +1,12 @@
 
-# 기후변화와 식물의학 — 12주차 실습 패키지 (Starter Kit)
+# 기후변화와 식물의학 — 실습 패키지
 
 이 패키지는 제안한 커리큘럼을 바로 실행할 수 있도록 **주차별 노트북**, **예시 데이터**, **과제 템플릿**을 제공합니다.
 
 ## 구성
-- `notebooks/` — 01~12주차 Jupyter 노트북
+- `notebooks/` — Jupyter 노트북
 - `data/` — 예시 데이터 (`sample_weather_2022.csv`, `news_samples_labeled.csv`, `occurrences_sdm_toy.csv`, `soil_meta_disease.csv`, `toy_genotypes_snv.csv`)
-- `docs/assignment_templates/` — A1~A9, 캡스톤 기획서/중간점검/최종보고 템플릿
+- `docs/assignment_templates/` — 캡스톤 기획서/중간점검/최종보고 템플릿
 - `utils/` — 공용 함수 `utils.py`
 
 ## 사용법
